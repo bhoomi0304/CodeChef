@@ -5,7 +5,7 @@ int main(void) {
 	int T;
 	scanf("%d",&T);
 	while(T--){
-	    int p, k;
+	    int p, k;//initialising the variables
         scanf("%d %d", &p, &k);
         int jpk = p - k;
         if (jpk <= 0) {
