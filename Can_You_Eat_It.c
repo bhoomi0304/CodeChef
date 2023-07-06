@@ -5,7 +5,7 @@ int main(void) {
 	int T;
 	scanf("%d",&T);
 	while(T--){
-	    int canlen,bite,count=0;
+	    int canlen,bite,count=0;//Initialising the variables
 	    scanf("%d%d",&canlen,&bite);
 	    if(canlen%bite==0)
 	    {
