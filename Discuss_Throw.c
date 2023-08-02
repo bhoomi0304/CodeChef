@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main(void) {
-	// your code goes here
+	
 	int T,x,y,z;
 	scanf("%d",&T);
 	while(T--){
